@@ -39,6 +39,11 @@ Mijozlar bilan aloqa sifatini oshirish uchun mo'ljallangan.
 *   **Intelligent Routing**: Kelgan xabarni birinchi bo'lib javob bera oladigan operatorga yo'naltirish.
 *   **Session Context**: Operator mijoz bilan gaplashayotganda uning qaysi portdan foydalanayotgani va qurilmasi ma'lumotlarini ko'rib turadi (Support osonlashishi uchun).
 *   **Customer Rating**: Operatorning ishiga go'yo "Uber"dagidek baho beriladi. Bu tizim operatorlarni yanada xushmuomala va tezkor bo'lishga majbur qiladi.
+<div align="center">
+  <img src="Screenshot_20260208-171407_Chrome.jpg" width="200" />
+  <img src="Screenshot_20260208-171415_Chrome.jpg" width="200" />
+  <img src="Screenshot_20260208-221340_Chrome.jpg" width="200" />
+</div>
 
 ## 3. 🌐 Marketing va Foydalanuvchi Sayti (Public Facing)
 Ushbu bo'lim yangi foydalanuvchilarni tarmoqqa jalb qilish uchun optimallashtirilgan.
