@@ -34,7 +34,7 @@ Dasturiy ta'minot "BORICHA" (AS IS) holatida taqdim etiladi. Xaridor tizimni ish
 
 ---
 
-**Sotuvchi Tomon**: [Azizbek va Traffix Node Jamoasi]
-**Xaridor Tomon**: [Kompaniya yoki Shaxs Nomi]
+**Sotuvchi Tomon**: Ozodboyev Bunyodbek
+**Xaridor Tomon**: ____________________
 
 **Imzo va Muhr:**  ____________________
