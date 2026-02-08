@@ -30,11 +30,3 @@ Loyiha gorizontal skalallash uchun mo'ljallangan:
 ## 💎 Xulosa
 Traffix Node — bu shunchaki dastur emas, balki to'liq avtomatlashtirilgan, o'z-o'zini moliyalashtiruvchi va yuqori daromad keltiruvchi **tarmoq infratuzilmasi** hisoblanadi.
 <br />
-<div align="center">
-  <h2>💸 Bu loyiha sotiladi!</h2>
-  <p>Ushbu loyihaning barcha huquqlari, kodlari va sozlamalari sotuvda. Sotib olingandan keyin private repository yuklab beriladi.</p>
-  <a href="https://t.me/ozbv7">
-    <img src="https://img.shields.io/badge/Sotib_olish_uchun_bog'laning-blue?style=for-the-badge&logo=telegram" alt="Bog'lanish" />
-  </a>
-</div>
-<br />
