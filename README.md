@@ -38,3 +38,4 @@ Traffix Node — bu shunchaki dastur emas, balki to'liq avtomatlashtirilgan, o'z
   </a>
 </div>
 <br />
+*Sotib olingandan keyin private repository yuklab beriladi.*
