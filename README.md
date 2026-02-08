@@ -33,7 +33,7 @@ Traffix Node — bu shunchaki dastur emas, balki to'liq avtomatlashtirilgan, o'z
 <div align="center">
   <h2>💸 Bu loyiha sotiladi!</h2>
   <p>Ushbu loyihaning barcha huquqlari, kodlari va sozlamalari sotuvda.</p>
-  <a href="https://t.me/@ozbv7">
+  <a href="https://t.me/ozbv7">
     <img src="https://img.shields.io/badge/Sotib_olish_uchun_bog'laning-blue?style=for-the-badge&logo=telegram" alt="Bog'lanish" />
   </a>
 </div>
