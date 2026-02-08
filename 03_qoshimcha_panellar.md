@@ -1,4 +1,4 @@
-# 03. Panellar va Interfeyslar: Biznes Boshqaruvi Markazi
+8# 03. Panellar va Interfeyslar: Biznes Boshqaruvi Markazi
 
 Barcha interfeyslar **Single Page Application (SPA)** tamoyili asosida yaratilgan bo'lib, ular foydalanuvchiga muammosiz va tezkor ish faoliyatini taqdim etadi.
 
@@ -50,6 +50,9 @@ Ushbu bo'lim yangi foydalanuvchilarni tarmoqqa jalb qilish uchun optimallashtiri
 *   **Landing Page**: Zamonaviy dizayn (Dark Mode), 3D effektlar va ko’ngilochar navigatsiya bilan foydalanuvchini jalb qiladi.
 *   **Help Center (Knowledge Base)**: Foydalanuvchi ilovani qanday o’rnatish, pul ishlash va balansni yechish bo'yicha barcha savollariga javob topadi.
 *   **Trust Indicators**: Platformaning litsenziyalari, maxfiylik siyosati va foydalanish shartlari ochiq ko'rsatilgan.
+<div align="center">
+  <img src="Screenshot_20260208-221725_Chrome.jpg" width="200" />
+</div>
 
 ## 📱 UI/UX Texnologiyalari
 *   **Vanilla CSS**: Hech qanday og'ir kutubxonalarsiz (masalan, Tailwind'siz) yozilgan, bu esa sahifalarning millisekundlarda ochilishini ta'minlaydi.
