@@ -1,4 +1,4 @@
-# 01. Traffix Node: Loyiha Mazmuni va Strategik Konsepsiyasi
+# Traffix Node: Loyiha Mazmuni va Strategik Konsepsiyasi
 
 ## 🌐 Kirish
 **Traffix Node** — bu global miqyosdagi rezidentsial (uy xo'jaligi) IP manzillarni ijaraga berishga asoslangan markazlashmagan tarmoq platformasi. Ushbu loyiha zamonaviy kiber-xavfsizlik, ma'lumotlarni yig'ish (Data Scraping) va reklama verifikatsiyasi bozori uchun eng qimmatli resurs — **toza va ishonchli IP manzillarni** taqdim etadi.
