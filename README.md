@@ -32,14 +32,12 @@ Traffix Node — bu shunchaki dastur emas, balki to'liq avtomatlashtirilgan, o'z
 <br />
 <div align="center">
   <h2>💸 Bu loyiha sotiladi!</h2>
-  <p>Ushbu loyihaning barcha huquqlari, kodlari va sozlamalari sotuvda.</p>
+  <p>Ushbu loyihaning barcha huquqlari, kodlari va sozlamalari sotuvda. Sotib olingandan keyin private repository yuklab beriladi.</p>
   <a href="https://t.me/ozbv7">
     <img src="https://img.shields.io/badge/Sotib_olish_uchun_bog'laning-blue?style=for-the-badge&logo=telegram" alt="Bog'lanish" />
   </a>
 </div>
 <br />
-Sotib olingandan keyin private repository yuklab beriladi.
-
 <br />
 <div align="center">
   <img src="https://img.shields.io/badge/Boshlang'ich_Narx-15%20000%20$-2ea44f?style=for-the-badge&logo=cashapp&logoColor=white" alt="Price Tag" height="50" />
