@@ -39,3 +39,9 @@ Traffix Node — bu shunchaki dastur emas, balki to'liq avtomatlashtirilgan, o'z
 </div>
 <br />
 Sotib olingandan keyin private repository yuklab beriladi.
+
+<br />
+<div align="center">
+  <img src="https://img.shields.io/badge/Boshlang'ich_Narx-15%20000%20$-2ea44f?style=for-the-badge&logo=cashapp&logoColor=white" alt="Price Tag" height="50" />
+</div>
+<br />
