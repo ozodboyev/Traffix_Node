@@ -32,7 +32,6 @@ Ushbu panel loyihaning "miyasini" kuzatish uchun xizmat qiladi.
 <div align="center">
   <img src="Screenshot_20260208-171321_Chrome.jpg" width="200" />
   <img src="Screenshot_20260208-171328_Chrome.jpg" width="200" />
-  <img src="Screenshot_20260208-171401_Chrome.jpg" width="200" />
 </div>
 
 ## 2. 🎧 Call Center va Support Portali (Operator Panel)
